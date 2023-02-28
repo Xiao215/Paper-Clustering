@@ -4,7 +4,7 @@
 
 The backend is implemented on `Flask` for the purpose of a REST API.
 
-##Set up
+## Set up
 
 1. Initialize a virtual environment called `venv` with `virtualenv`.
 
